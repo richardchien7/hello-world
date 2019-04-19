@@ -3,7 +3,6 @@ import java.util.LinkedList;
 public class Emp {
 	private String name;
 	private int salary;
-	
 	public Emp() {
 		
 	}
